@@ -1,0 +1,6 @@
+App\Entity\Adresse:
+    adresse{0..150}:
+      ligne1: "<word()>"
+      ligne2: "30%?<word()>"
+      commune: "<word()>"
+      codePostal: "<numberBetween(10000,99999)>"

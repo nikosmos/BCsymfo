@@ -1,0 +1,4 @@
+App\Entity\Eth:
+  eth{0..31}:
+    coursEth:
+    joursCours:
